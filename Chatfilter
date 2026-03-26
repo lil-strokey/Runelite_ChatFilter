@@ -154,6 +154,9 @@ trade.*?accepted.*?with.*?for
 (?i)a[\s\.,]+v[\s\.,]+o[\s\.,]+i[\s\.,]+d
 (?i)(\$\s*\d+)?[\,\.]\d+\s+(per\s+)?mil
 (?i).*actually( super)? clean and( super)? (active|rewarding|fun)
+(?i)o+n+l+[yi4]+[^a-z]*f[a4]+n+s+
+(?i)\bs+t+[e3]+l+l+[a4]+\b
+(?i)st[e3]ll[a4]
 
 (?# Specific adverts)
 (?i).*?discord\.gg.*?gold.*
